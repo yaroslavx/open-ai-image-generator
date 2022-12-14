@@ -5,6 +5,13 @@
 
 > Just image generator by OpenAI API
 
+## Clone
+
+```js
+git clone // repo UPL
+
+```
+
 ## Install
 
 ```sh
